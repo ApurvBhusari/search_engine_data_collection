@@ -71,6 +71,7 @@ export ECR_REPOSITORY_NAME=<name>
 export DATABASE_NAME=<name>
 ```
 
+
 ## Cost Involved
 - For s3 bucket    :  Since we are using S3 Standard `$0.023 per GB`
 - For Ec2 Instance :  Since we are using t2.small with 20Gb storage 1vCpu and 2Gb ram `$0.0248 USD per hour`
