@@ -1,5 +1,11 @@
+# This entire project is based on Microservice architecture (PolyRepo)
 # Embedding based Image Search Engine DataCollection
 This Repository contains code for data collection which is required to train Embedding Based Image Search Engine.
+
+# This repository is for MODEL TRAINING 
+https://github.com/ApurvBhusari/search_engine_training_endpoint
+# This repository is for PREDICTION
+https://github.com/ApurvBhusari/search_engine_prediction
 
 # Architecture
 ![image](https://user-images.githubusercontent.com/40850370/194913612-69d32e6d-56b7-4b1b-a811-48c6c5b27f52.png)
