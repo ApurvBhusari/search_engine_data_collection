@@ -85,3 +85,13 @@ export DATABASE_NAME=<name>
 - For ECR : Storage is $0.10 per GB / month for data stored in private or public repositories.
 - Data Transfer IN  - All data transfer in	`$0.00 per GB`
 - Data Transfer OUT - Next 9.999 TB / month	`$0.132 per GB`
+
+# AWS INTERFACE 
+![Screenshot (1592)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/11438c79-2cc5-4aba-8037-d2cd097677b4)
+![Screenshot (1593)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/a3f488be-40fc-48dc-b70a-f07d62f9fa8c)
+![Screenshot (1594)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/a184ee61-b7c1-488b-b0d6-8a3bb61305ea)
+![Screenshot (1595)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/0b7974fb-c1cd-45e2-9685-df20af29887d)
+![Screenshot (1596)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/54c05e20-9ffd-4051-aee3-15ca111b62c3)
+![Screenshot (1597)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/57583eeb-dfbe-4f38-abc2-79419e26f5f2)
+![Screenshot (1598)](https://github.com/ApurvBhusari/search_engine_data_collection/assets/80256026/9fd324fa-9884-4910-9c74-27fa18bd9528)
+
