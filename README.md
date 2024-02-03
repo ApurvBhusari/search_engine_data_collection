@@ -1,4 +1,4 @@
-# This entire project is based on Microservice architecture (PolyRepo)
+
 # Embedding based Image Search Engine DataCollection
 This Repository contains code for data collection which is required to train Embedding Based Image Search Engine.
 
